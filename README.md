@@ -1,6 +1,7 @@
 # E-Commerce Project
 
 This is a basic e-commerce project. The purpose of this project is to provide a platform for users to browse, search, and purchase products online.
+this is from branch2
 
 ## Features
 
