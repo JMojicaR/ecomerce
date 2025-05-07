@@ -1,5 +1,5 @@
 # E-Commerce Project
-
+Changes from branch 5
 This is a basic e-commerce project. The purpose of this project is to provide a platform for users to browse, search, and purchase products online.
 
 ## Features
