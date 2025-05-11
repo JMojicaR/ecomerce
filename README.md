@@ -15,6 +15,7 @@ This is a basic e-commerce project. The purpose of this project is to provide a 
 - Frontend: [Specify frontend framework or library, e.g., React, Angular]
 - Backend: [Specify backend framework or language, e.g., Node.js, Django]
 - Database: [Specify database, e.g., MySQL, MongoDB]
+- Change from branch 11
 
 ## Setup Instructions
 
